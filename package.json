@@ -1,0 +1,12 @@
+{
+  "name": "auth22-codespace",
+  "version": "1.0.0",
+  "description": "auth system design inside codespace",
+  "main": "index.js",
+  "scripts": {
+   "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
